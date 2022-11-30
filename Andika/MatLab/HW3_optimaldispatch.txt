@@ -1,0 +1,176 @@
+
+
+ interation NO : 1
+_______________________
+B =
+
+    0.0108    0.0011   -0.0006
+    0.0011    0.0308   -0.0010
+   -0.0006   -0.0010    0.0078
+
+
+B0 =
+
+   1.0e-03 *
+
+    0.0143    0.2625    0.0096
+
+
+B00 =
+
+   1.4232e-06
+
+Total system loss = 5.41477 MW 
+
+Total generation cost =    3326.77 $/h 
+Incremental cost of delivered power (system lambda) =  8.585979 $/MWh 
+Optimal Dispatch of Generation:
+
+   93.4509
+  161.2246
+  100.0000
+
+Total system loss = 9.67561 MW 
+
+Absolute value of the slack bus real power mismatch, dpslack =   0.5698 pu 
+
+
+ interation NO : 2
+_______________________
+B =
+
+    0.0120    0.0013   -0.0007
+    0.0013    0.0092   -0.0009
+   -0.0007   -0.0009    0.0082
+
+
+B0 =
+
+   1.0e-03 *
+
+    0.0662    0.1113    0.0120
+
+
+B00 =
+
+   1.4243e-06
+
+Total system loss = 4.12665 MW 
+Incremental cost of delivered power (system lambda) =  8.164874 $/MWh 
+Optimal Dispatch of Generation:
+
+   71.9980
+  179.3813
+   97.9426
+
+Total system loss = 4.32194 MW 
+
+Absolute value of the slack bus real power mismatch, dpslack =   0.1592 pu 
+
+Total generation cost =    3197.52 $/h 
+
+
+ interation NO : 3
+_______________________
+B =
+
+    0.0133    0.0014   -0.0007
+    0.0014    0.0080   -0.0008
+   -0.0007   -0.0008    0.0082
+
+
+B0 =
+
+   1.0e-04 *
+
+    0.9491    0.9575    0.1204
+
+
+B00 =
+
+   1.4247e-06
+
+Total system loss = 4.02054 MW 
+Incremental cost of delivered power (system lambda) =  8.152344 $/MWh 
+Optimal Dispatch of Generation:
+
+   70.4917
+  181.3638
+   97.1862
+
+Total system loss = 4.04165 MW 
+
+Absolute value of the slack bus real power mismatch, dpslack =   0.0122 pu 
+
+Total generation cost =    3195.07 $/h 
+
+
+ interation NO : 4
+_______________________
+B =
+
+    0.0135    0.0014   -0.0007
+    0.0014    0.0078   -0.0008
+   -0.0007   -0.0008    0.0082
+
+
+B0 =
+
+   1.0e-04 *
+
+    0.9761    0.9427    0.1219
+
+
+B00 =
+
+   1.4247e-06
+
+Total system loss = 4.01647 MW 
+Incremental cost of delivered power (system lambda) =  8.151350 $/MWh 
+Optimal Dispatch of Generation:
+
+   70.3503
+  181.5573
+   97.1107
+
+Total system loss = 4.01826 MW 
+
+Absolute value of the slack bus real power mismatch, dpslack =   0.0013 pu 
+
+Total generation cost =    3194.87 $/h 
+
+
+ interation NO : 5
+_______________________
+B =
+
+    0.0135    0.0014   -0.0007
+    0.0014    0.0078   -0.0008
+   -0.0007   -0.0008    0.0082
+
+
+B0 =
+
+   1.0e-04 *
+
+    0.9788    0.9413    0.1220
+
+
+B00 =
+
+   1.4247e-06
+
+Total system loss = 4.01613 MW 
+Incremental cost of delivered power (system lambda) =  8.151257 $/MWh 
+Optimal Dispatch of Generation:
+
+   70.3366
+  181.5760
+   97.1034
+
+Total system loss = 4.01605 MW 
+
+Absolute value of the slack bus real power mismatch, dpslack =   0.0002 pu 
+
+Total generation cost =    3194.85 $/h 
+Elapsed time is 0.087033 seconds.
